@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+sentence-transformers
+pymupdf
+python-dotenv
+groq
+tqdm
+rich
