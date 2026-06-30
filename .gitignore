@@ -58,3 +58,7 @@ dist/
 # Streamlit (if used)
 # ==========================
 .streamlit/secrets.toml
+
+
+
+data/
